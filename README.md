@@ -176,7 +176,7 @@ _I will use yarn to install dependencies_
      @typechain/hardhat @typechain/ethers-v5 @types/chai /
      @openzeppelin/contracts
      ```
-  3. Hardahat config file `hardhat.config.ts`
+  3. Hardhat config file `hardhat.config.ts`
 
      ```ts
      import "hardhat-deploy";
